@@ -10,7 +10,8 @@ The calibration of the camera might not lead to a perfect result, or you might h
 I suggest here to use the attached macro written for ImageJ / Fiji to automatically adjust the white balance of your images. All you need is a background area in your image.<br>
 Original macro was written by Vytas Bindokas; Oct 2006, Univ. of Chicago.
 
-Methods:<br>
+Methods:
+
 1. Open your image with ImageJ / Fiji 
 
 2. Drag & drop the macro file on menu window
