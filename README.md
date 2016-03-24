@@ -1,3 +1,3 @@
 ## ImageJ-macros
 
-White Balance correction_1.0
+White balance correction_1.0
