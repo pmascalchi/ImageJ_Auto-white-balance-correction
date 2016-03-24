@@ -2,6 +2,7 @@
 
 -------------------------------------------------------------------------------
 **White balance correction_1.0**
+
 Summary and Methods:
 
 Images from colour camera always need white balance adjustment which is usually performed just before the acquisition. This is due to the fact that the light source doesn’t emit pure white light.
