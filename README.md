@@ -1,4 +1,4 @@
-## ImageJ-macros
+## ImageJ macros by Patrice Mascalchi
 
 -------------------------------------------------------------------------------
 **White balance correction_1.0**
